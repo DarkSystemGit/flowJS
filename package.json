@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "electron": "^20.0.1",
+    "nw": "^0.67.0",
+    "ws": "^8.8.1"
+  },
+  "name": "flowjs",
+  "version": "1.0.0",
+  "description": "a js based retro art game engine",
+  "main": "main.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nw"
+  },
+  "keywords": [
+    "game",
+    "engine",
+    "pixel",
+    "art"
+  ],
+  "author": "DarkSystem",
+  "license": "MIT"
+}
